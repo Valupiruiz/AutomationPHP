@@ -1,0 +1,9 @@
+Appium-Python-Client
+pytest
+pytest_bdd
+selenium
+pytest-check
+pyyaml
+unidecode
+allure-pytest-bdd
+allure-pytest

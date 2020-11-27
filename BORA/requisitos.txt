@@ -1,0 +1,9 @@
+selenium
+behave
+Pillow
+lorem
+pdfminer
+requests
+pyperclip
+pyautogui
+pyodbc

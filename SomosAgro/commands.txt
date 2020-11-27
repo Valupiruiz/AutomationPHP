@@ -1,0 +1,5 @@
+% Realiza todos los tests sin pasar por los casos de prueba de registro
+pytest -k "not con_registro"
+
+% Todos los CP
+pytest

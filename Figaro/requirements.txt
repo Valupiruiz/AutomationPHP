@@ -1,0 +1,6 @@
+selenium
+pytest
+pytest_bdd
+pyodbc
+allure-pytest
+pytest-check
